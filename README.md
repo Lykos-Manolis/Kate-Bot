@@ -1,6 +1,8 @@
 # Kate-Bot
 A discord bot with various functions, built to work and be run on [replit](replit.com/@ManolisLykos/KateBot#main.py).
 
+![preview bot image](https://github.com/Lykos-Manolis/Kate-Bot/blob/main/Kate-Bot/assets/pics/reddit-post.jpg)
+
 A set of reference images can be found [here](https://github.com/Lykos-Manolis/Kate-Bot/tree/main/Kate-Bot/assets/pics)
 
 ## Commands
