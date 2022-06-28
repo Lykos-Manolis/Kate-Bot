@@ -1,5 +1,5 @@
 # Kate-Bot
-A discord bot with various functions, built to work and be run on [replit](replit.com/@ManolisLykos/KateBot#main.py).
+A discord bot with various functions, built to work and be run on [replit](https://replit.com/@ManolisLykos/Kate-Bot).
 
 ![preview bot image](https://github.com/Lykos-Manolis/Kate-Bot/blob/main/Kate-Bot/assets/pics/reddit-post.jpg)
 
