@@ -3,7 +3,7 @@ import discord
 import random
 
 async def Greet(ctx):
-    greet = ["Hey!","Sup.","Greetings Traveler","Wassup.. bitch.","Hello!","Greetings!","Ad astra abyssosque."]
+    greet = ["Hey!","Sup.","Greetings Traveler","Hello!","Greetings!","Ad astra abyssosque."]
     await ctx.send(random.choice(greet))
 
 async def ClearMessages(ctx, amount):
