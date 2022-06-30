@@ -149,6 +149,6 @@ A preview of the bot's usage:
     </tr>
 </table>
 
-A set of reference images for for more features can be found [here](https://github.com/Lykos-Manolis/Kate-Bot/tree/main/Kate-Bot/assets/pics)
+A set of reference images for more features can be found [here](https://github.com/Lykos-Manolis/Kate-Bot/tree/main/Kate-Bot/assets/pics)
 
 Thumbnail image credit to [@Nowlasd](https://twitter.com/nowlasd?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
